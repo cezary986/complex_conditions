@@ -1,0 +1,7 @@
+,pred:build wind float,pred:vehic wind float,pred:tableware,pred:build wind non-float,pred:headlamps,pred:containers
+true:build wind float,59,0,0,4,0,0
+true:vehic wind float,1,15,0,0,0,0
+true:tableware,0,0,8,0,0,0
+true:build wind non-float,0,1,0,67,0,0
+true:headlamps,0,0,0,4,22,0
+true:containers,0,0,0,2,0,10

@@ -1,0 +1,8 @@
+IF venomous = eggs = feathers THEN class = {mammal} (p=37, n=0, P=37, N=54)
+IF eggs = backbone = fins THEN class = {fish} (p=11, n=0, P=11, N=80)
+IF eggs = feathers = backbone THEN class = {bird} (p=18, n=0, P=18, N=73)
+IF airborne != {true} AND tail != {true} AND toothed != {true} THEN class = {invertebrate} (p=9, n=1, P=9, N=82)
+IF toothed = eggs = breathes AND aquatic = backbone = breathes THEN class = {amphibian} (p=4, n=0, P=4, N=87)
+IF catsize = aquatic = backbone AND legs = <5.50, inf) THEN class = {insect} (p=7, n=0, P=7, N=84)
+IF catsize = eggs = hair THEN class = {reptile} (p=1, n=0, P=5, N=86)
+IF aquatic = hair = feathers AND eggs = backbone = breathes THEN class = {reptile} (p=4, n=0, P=5, N=86)

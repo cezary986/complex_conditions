@@ -1,0 +1,2 @@
+dataset,variant,dataset type,BAcc (test),BAcc (train),Acc (test),Acc (train),rules,conditions_count,avg conditions per rule,avg rule quality,avg rule precision,avg rule coverage,training time total (s),training time growing (s),training time pruning (s),induction measure,pruning measure,voting measure
+bupa-liver-disorders,complex_conditions,original,0.6083333333333333,0.9675213675213675,0.6571428571428571,0.9709677419354839,206,206.0,3.5517241379310347,0.5308919129104094,0.9852862587970558,0.04949944382647385,1.200830952,2.0597993480000003,0.11780248400000001,C2,C2,C2

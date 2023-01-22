@@ -1,0 +1,5 @@
+,pred:unacc,pred:acc,pred:vgood,pred:good
+true:unacc,972,116,0,1
+true:acc,0,340,0,6
+true:vgood,0,37,21,0
+true:good,0,42,1,19

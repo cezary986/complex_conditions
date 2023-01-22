@@ -1,0 +1,2 @@
+dataset,variant,dataset type,BAcc (test),BAcc (train),Acc (test),Acc (train),rules,conditions_count,avg conditions per rule,avg rule quality,avg rule precision,avg rule coverage,training time total (s),training time growing (s),training time pruning (s),induction measure,pruning measure,voting measure
+hepatitis,complex_conditions,original,0.6666666666666666,0.9310344827586207,0.8666666666666667,0.9714285714285714,36,36.0,2.769230769230769,0.6552366425981655,0.9686489980607629,0.24120879120879118,0.5576257,0.643029568,0.05670102,C2,C2,C2

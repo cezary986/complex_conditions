@@ -1,0 +1,2 @@
+dataset,variant,dataset type,BAcc (test),BAcc (train),Acc (test),Acc (train),rules,conditions_count,avg conditions per rule,avg rule quality,avg rule precision,avg rule coverage,training time total (s),training time growing (s),training time pruning (s),induction measure,pruning measure,voting measure
+mushroom,plain,original,0.9648553007901497,0.9672070980626415,0.964329643296433,0.9667624128026262,24,24.0,1.8461538461538463,0.6921787001394346,0.9743438101251081,0.23429395115894913,3.029394152,2.7506495120000003,0.45284560799999996,C2,C2,C2

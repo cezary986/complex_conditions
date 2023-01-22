@@ -2,7 +2,7 @@ logs/
 __pycache__/
 env/
 _cache/
-results/
+
 doc/
 
 elsevier/

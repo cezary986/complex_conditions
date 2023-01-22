@@ -1,0 +1,4 @@
+,pred:Iris-setosa,pred:Iris-versicolor,pred:Iris-virginica
+true:Iris-setosa,45.0,0.0,0.0
+true:Iris-versicolor,0.3,43.5,1.2
+true:Iris-virginica,1.6,1.1,42.3

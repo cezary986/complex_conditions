@@ -1,0 +1,5 @@
+,pred:malign_lymph,pred:fibrosis,pred:metastases,pred:normal
+true:malign_lymph,5,0,1,0
+true:fibrosis,0,0,0,0
+true:metastases,1,0,7,0
+true:normal,0,0,0,0

@@ -1,0 +1,5 @@
+IF sepalwidth > petallength THEN class = {Iris-setosa} (p=45, n=0, P=45, N=90)
+IF petalwidth = (-inf, 1.65) AND petallength = <2.45, 4.80) THEN class = {Iris-versicolor} (p=39, n=0, P=45, N=90)
+IF petalwidth = <0.80, 1.80) AND sepallength = <4.95, inf) AND petallength = (-inf, 5.35) THEN class = {Iris-versicolor} (p=43, n=2, P=45, N=90)
+IF petalwidth = <1.75, inf) AND petallength = <4.85, inf) THEN class = {Iris-virginica} (p=38, n=0, P=45, N=90)
+IF petalwidth = <1.45, inf) AND petallength = <4.75, inf) THEN class = {Iris-virginica} (p=43, n=5, P=45, N=90)

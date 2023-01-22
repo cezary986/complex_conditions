@@ -1,0 +1,2 @@
+dataset,variant,dataset type,BAcc (test),BAcc (train),Acc (test),Acc (train),rules,conditions_count,avg conditions per rule,avg rule quality,avg rule precision,avg rule coverage,training time total (s),training time growing (s),training time pruning (s),induction measure,pruning measure,voting measure
+car,plain,original,0.5766948362642143,0.6314434304684609,0.9017341040462428,0.9131832797427653,244,244.0,3.4857142857142858,0.37479379332883256,0.745352801986992,0.02902158934313276,0.87730412,1.15938082,0.14542464,C2,C2,C2

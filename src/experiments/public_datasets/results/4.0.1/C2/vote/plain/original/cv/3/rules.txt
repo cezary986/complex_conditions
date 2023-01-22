@@ -1,0 +1,5 @@
+IF physician-fee-freeze = {y} THEN class = {republican} (p=146, n=13, P=151, N=240)
+IF physician-fee-freeze = {n} THEN class = {democrat} (p=219, n=2, P=240, N=151)
+IF aid-to-nicaraguan-contras = {y} AND el-salvador-aid = {n} THEN class = {democrat} (p=178, n=7, P=240, N=151)
+IF education-spending = {n} THEN class = {democrat} (p=194, n=18, P=240, N=151)
+IF synfuels-corporation-cutback = {y} THEN class = {democrat} (p=120, n=21, P=240, N=151)

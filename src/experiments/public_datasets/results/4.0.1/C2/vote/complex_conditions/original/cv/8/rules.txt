@@ -1,0 +1,6 @@
+IF crime = physician-fee-freeze AND immigration = {y, n} AND synfuels-corporation-cutback != {y} AND crime != {n} THEN class = {republican} (p=126, n=5, P=151, N=241)
+IF education-spending != handicapped-infants AND handicapped-infants = adoption-of-the-budget-resolution AND handicapped-infants != physician-fee-freeze AND education-spending != {n} THEN class = {republican} (p=109, n=3, P=151, N=241)
+IF adoption-of-the-budget-resolution = anti-satellite-test-ban AND duty-free-exports = anti-satellite-test-ban AND el-salvador-aid != anti-satellite-test-ban AND mx-missile = anti-satellite-test-ban AND physician-fee-freeze != anti-satellite-test-ban AND el-salvador-aid != {n} THEN class = {republican} (p=111, n=4, P=151, N=241)
+IF physician-fee-freeze != {y} AND adoption-of-the-budget-resolution = {n, y} THEN class = {democrat} (p=223, n=1, P=241, N=151)
+IF superfund-right-to-sue = physician-fee-freeze AND superfund-right-to-sue != anti-satellite-test-ban AND duty-free-exports = {n, y} AND adoption-of-the-budget-resolution != {n} THEN class = {democrat} (p=132, n=4, P=241, N=151)
+IF education-spending != {y} AND aid-to-nicaraguan-contras = {n, y} AND anti-satellite-test-ban = {n, y} THEN class = {democrat} (p=199, n=22, P=241, N=151)

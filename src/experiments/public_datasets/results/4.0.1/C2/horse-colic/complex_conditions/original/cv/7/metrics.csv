@@ -1,0 +1,2 @@
+dataset,variant,dataset type,BAcc (test),BAcc (train),Acc (test),Acc (train),rules,conditions_count,avg conditions per rule,avg rule quality,avg rule precision,avg rule coverage,training time total (s),training time growing (s),training time pruning (s),induction measure,pruning measure,voting measure
+horse-colic,complex_conditions,original,0.9407051282051282,0.8735928705440901,0.9459459459459459,0.8912386706948641,115,114.99999999999999,4.107142857142857,0.6132175510133283,0.9747438667477869,0.16001294777729824,0.47018858,0.816327276,0.05561292,C2,C2,C2

@@ -1,0 +1,2 @@
+dataset,variant,dataset type,BAcc (test),BAcc (train),Acc (test),Acc (train),rules,conditions_count,avg conditions per rule,avg rule quality,avg rule precision,avg rule coverage,training time total (s),training time growing (s),training time pruning (s),induction measure,pruning measure,voting measure
+echocardiogram,plain,original,0.9,0.9230263157894737,0.9230769230769231,0.923728813559322,16,16.0,2.2857142857142856,0.7571147514787978,0.9204252959240512,0.41767554479418884,0.123361032,0.121671208,0.012570488,C2,C2,C2

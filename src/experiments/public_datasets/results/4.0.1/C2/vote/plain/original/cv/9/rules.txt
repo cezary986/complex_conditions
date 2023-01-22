@@ -1,0 +1,7 @@
+IF physician-fee-freeze = {y} AND adoption-of-the-budget-resolution = {n} AND el-salvador-aid = {y} THEN class = {republican} (p=125, n=3, P=152, N=240)
+IF physician-fee-freeze = {y} AND synfuels-corporation-cutback = {n} THEN class = {republican} (p=123, n=3, P=152, N=240)
+IF crime = {y} THEN class = {republican} (p=143, n=82, P=152, N=240)
+IF physician-fee-freeze = {n} THEN class = {democrat} (p=219, n=2, P=240, N=152)
+IF aid-to-nicaraguan-contras = {y} AND el-salvador-aid = {n} THEN class = {democrat} (p=176, n=7, P=240, N=152)
+IF adoption-of-the-budget-resolution = {y} THEN class = {democrat} (p=209, n=18, P=240, N=152)
+IF immigration = {n} THEN class = {democrat} (p=122, n=66, P=240, N=152)

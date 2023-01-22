@@ -1,0 +1,6 @@
+,pred:recommend,pred:priority,pred:not_recom,pred:very_recom,pred:spec_prior
+true:recommend,0,0,0,1,0
+true:priority,0,3788,2,0,50
+true:not_recom,0,0,3888,0,0
+true:very_recom,0,225,0,70,0
+true:spec_prior,0,277,0,0,3363

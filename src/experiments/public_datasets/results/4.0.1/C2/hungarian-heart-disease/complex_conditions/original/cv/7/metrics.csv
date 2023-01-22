@@ -1,0 +1,2 @@
+dataset,variant,dataset type,BAcc (test),BAcc (train),Acc (test),Acc (train),rules,conditions_count,avg conditions per rule,avg rule quality,avg rule precision,avg rule coverage,training time total (s),training time growing (s),training time pruning (s),induction measure,pruning measure,voting measure
+hungarian-heart-disease,complex_conditions,original,0.8473684210526315,0.8714558678500987,0.8620689655172413,0.8905660377358491,117,117.0,4.875,0.6074215344140897,0.9308369666422616,0.23883647798742144,1.211167104,2.06575674,0.06702772800000001,C2,C2,C2

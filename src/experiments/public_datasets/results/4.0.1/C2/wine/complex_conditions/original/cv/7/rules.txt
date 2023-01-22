@@ -1,0 +1,8 @@
+IF Proline = <987.50, inf) THEN class = {1} (p=38, n=0, P=53, N=107)
+IF Color_intensity > OD280/OD315_of_diluted_wines AND Proline = <882.50, inf) THEN class = {1} (p=43, n=0, P=53, N=107)
+IF Flavanoids > Proanthocyanins AND Proline = <755, inf) AND Alcalinity_of_ash = (-inf, 27.50) THEN class = {1} (p=51, n=0, P=53, N=107)
+IF Color_intensity = (-inf, 3.46) THEN class = {2} (p=51, n=0, P=64, N=96)
+IF Color_intensity = (-inf, 3.92) AND Proline = (-inf, 719) THEN class = {2} (p=51, n=0, P=64, N=96)
+IF Proanthocyanins < OD280/OD315_of_diluted_wines AND Proline = (-inf, 468) THEN class = {2} (p=30, n=0, P=64, N=96)
+IF Alcohol < Alcalinity_of_ash AND Flavanoids = (-inf, 0.98) THEN class = {3} (p=34, n=0, P=43, N=117)
+IF Ash > OD280/OD315_of_diluted_wines AND Hue = (-inf, 0.79) THEN class = {3} (p=34, n=0, P=43, N=117)

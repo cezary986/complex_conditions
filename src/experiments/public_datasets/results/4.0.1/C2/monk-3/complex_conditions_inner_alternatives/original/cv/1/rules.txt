@@ -1,0 +1,5 @@
+IF a2 != {3} AND a5 != {4} THEN class = {True} (p=57, n=5, P=60, N=62)
+IF a5 = {4} THEN class = {False} (p=30, n=1, P=62, N=60)
+IF a2 = {3} AND a4 != {1} THEN class = {False} (p=27, n=0, P=62, N=60)
+IF a2 = {3} AND a5 != {3} THEN class = {False} (p=30, n=1, P=62, N=60)
+IF a1 != {3} AND a3 != {2} AND a5 != {1} THEN class = {False} (p=22, n=14, P=62, N=60)

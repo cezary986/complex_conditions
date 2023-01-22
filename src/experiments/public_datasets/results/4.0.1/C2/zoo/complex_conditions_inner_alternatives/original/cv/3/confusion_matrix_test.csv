@@ -1,0 +1,8 @@
+,pred:mammal,pred:fish,pred:bird,pred:invertebrate,pred:insect,pred:amphibian,pred:reptile
+true:mammal,4,0,0,0,0,0,0
+true:fish,0,2,0,0,0,0,0
+true:bird,0,0,2,0,0,0,0
+true:invertebrate,0,0,0,1,0,0,0
+true:insect,0,0,0,0,0,0,0
+true:amphibian,1,0,0,0,0,0,0
+true:reptile,0,0,0,0,0,0,0

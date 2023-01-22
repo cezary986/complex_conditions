@@ -1,0 +1,4 @@
+,pred:B,pred:R,pred:L
+true:B,3.7,0.8,0.4
+true:R,0.0,27.8,1.0
+true:L,0.0,1.0,27.8

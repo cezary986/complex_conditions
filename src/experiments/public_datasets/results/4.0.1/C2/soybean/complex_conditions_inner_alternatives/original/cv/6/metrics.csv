@@ -1,0 +1,2 @@
+dataset,variant,dataset type,BAcc (test),BAcc (train),Acc (test),Acc (train),rules,conditions_count,avg conditions per rule,avg rule quality,avg rule precision,avg rule coverage,training time total (s),training time growing (s),training time pruning (s),induction measure,pruning measure,voting measure
+soybean,complex_conditions_inner_alternatives,original,0.976608187134503,0.9758701042939407,0.9411764705882353,0.9560975609756097,114,114.0,3.081081081081081,0.7566170432083599,0.8990210127866902,0.05809712151175567,0.701314616,1.2839244519999997,0.4692241880000001,C2,C2,C2

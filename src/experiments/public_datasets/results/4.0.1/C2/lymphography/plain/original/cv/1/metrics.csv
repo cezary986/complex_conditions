@@ -1,0 +1,2 @@
+dataset,variant,dataset type,BAcc (test),BAcc (train),Acc (test),Acc (train),rules,conditions_count,avg conditions per rule,avg rule quality,avg rule precision,avg rule coverage,training time total (s),training time growing (s),training time pruning (s),induction measure,pruning measure,voting measure
+lymphography,plain,original,0.7857142857142857,0.9331557584982243,0.8,0.8796992481203008,38,38.0,2.375,0.6371427739237945,0.9037207118156273,0.25798872180451127,0.348408396,0.576234208,0.07332529600000001,C2,C2,C2

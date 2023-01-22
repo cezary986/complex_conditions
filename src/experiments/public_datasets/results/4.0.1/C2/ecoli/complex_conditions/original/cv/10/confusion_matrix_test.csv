@@ -1,0 +1,9 @@
+,pred:cp,pred:im,pred:imS,pred:imL,pred:imU,pred:om,pred:omL,pred:pp
+true:cp,13,1,0,0,0,0,0,0
+true:im,0,8,0,0,0,0,0,0
+true:imS,0,0,0,0,0,0,0,0
+true:imL,0,0,0,0,0,0,0,0
+true:imU,0,3,0,0,0,0,0,0
+true:om,0,0,0,0,0,1,0,1
+true:omL,0,0,0,0,0,0,1,0
+true:pp,0,1,0,0,0,0,0,4

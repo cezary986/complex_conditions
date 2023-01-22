@@ -1,0 +1,7 @@
+IF survival = <22.50, inf) AND wall-motion-index = (-inf, 1.89) THEN class = {0} (p=55, n=0, P=80, N=38)
+IF mult = <0.43, inf) AND survival = <21.50, inf) THEN class = {0} (p=58, n=1, P=80, N=38)
+IF epss = (-inf, 16.90) AND survival = <15.50, inf) THEN class = {0} (p=56, n=0, P=80, N=38)
+IF survival = <11, inf) AND lvdd = (-inf, 5.69) THEN class = {0} (p=69, n=2, P=80, N=38)
+IF mult < group AND survival = (-inf, 8.25) THEN class = {1} (p=26, n=0, P=38, N=80)
+IF survival < epss AND mult = (-inf, 0.96) AND epss = (-inf, 29.50) AND wall-motion-score = (-inf, 21.75) THEN class = {1} (p=22, n=2, P=38, N=80)
+IF wall-motion-score != <13.75, 17) AND survival = <11, 19.50) AND age-at-heart-attack != <56.50, 59) THEN class = {1} (p=25, n=0, P=38, N=80)

@@ -1,0 +1,6 @@
+IF #(survival = <22.50, inf) OR survival = <15.50, 19.50) OR survival = <11, 15)) AND #(wall-motion-index = (-inf, 1.91) OR wall-motion-index = <1.98, inf)) AND age-at-heart-attack = (-inf, 73.50) THEN class = {0} (p=65, n=0, P=80, N=38)
+IF survival > lvdd AND fractional-shortening = <0.11, 0.34) AND wall-motion-score = (-inf, 20.50) AND age-at-heart-attack = (-inf, 73.50) AND wall-motion-index = <1.05, inf) THEN class = {0} (p=30, n=0, P=80, N=38)
+IF epss = (-inf, 19.15) AND survival = <15.50, inf) AND lvdd = (-inf, 5.80) THEN class = {0} (p=58, n=1, P=80, N=38)
+IF #(mult < group OR mult = <0.32, 0.93)) AND survival = (-inf, 8.25) THEN class = {1} (p=28, n=0, P=38, N=80)
+IF age-at-heart-attack > group AND age-at-heart-attack != <69.50, 73) AND wall-motion-score != <9.50, 17.50) AND survival = (-inf, 19.75) AND age-at-heart-attack != <56.50, 65) THEN class = {1} (p=11, n=0, P=38, N=80)
+IF fractional-shortening < epss AND mult < group AND age-at-heart-attack != <60.50, 65) AND fractional-shortening = <0.065, 0.23) AND age-at-heart-attack = <69.50, 74) AND wall-motion-index = (-inf, 1.65) THEN class = {1} (p=8, n=1, P=38, N=80)
